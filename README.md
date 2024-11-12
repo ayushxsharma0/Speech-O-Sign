@@ -38,3 +38,7 @@ The whole project is divided into four phases as show below.
 
 ## App Snapshot
 ![](https://github.com/ayushxsharma0/Speech-O-Sign/blob/main/images/Main%20Screen.png)
+
+
+## References
+I have referenced the research paper 'SPEECH TO INDIAN SIGN LANGUAGE TRANSLATOR' by Alisha Kulkarni, Archith Vinod Kariyal, Dhanush V, Paras Nath Singh published on [Atlantis Press](https://www.atlantis-press.com/) while creating this project.
