@@ -5,7 +5,7 @@
 * [Project Overview](#project-overview)
 * [Technologies](#technologies)
 * [Instructions](#instructions)
-* [App Snapshots](#app-snapshots)
+* [App Snapshot](#app-snapshot)
 
 
 ## General Info
@@ -36,4 +36,5 @@ The whole project is divided into four phases as show below.
 4. Once recorded you may click `Generate` to generate the output video.
 
 
-## App Snapshots
+## App Snapshot
+![](https://github.com/ayushxsharma0/Speech-O-Sign/blob/main/images/Main%20Screen.png)
