@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Instructions](#instructions)
 * [App Snapshot](#app-snapshot)
+* [References](#references)
 
 
 ## General Info
